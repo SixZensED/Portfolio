@@ -14,3 +14,8 @@
 
 # About
 I do Ui-Library in Roblox , such as Hub development (front-end), and Script development! Most of the projects you may see on here are mostly hobbyist.
+```lua
+Age = 18
+Learning </> = Lua,Python,Html,C++,C#
+Main Learning </> = Lua
+```
