@@ -8,11 +8,9 @@
 ![](https://img.shields.io/badge/Discord-SixZens%235765-red)
 ![](https://img.shields.io/github/languages/top/SixZens/x09_log)
 ![](https://img.shields.io/github/followers/SixZens?style=social)
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://discord.gg/EqBngnJ7Me"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 
 
 # About
 I do Ui-Library in Roblox , such as Hub development (front-end), and Script development! Most of the projects you may see on here are mostly hobbyist.
-
-This is [**XOVA'S Team | UI Service**](https://discord.gg/EqBngnJ7Me)
