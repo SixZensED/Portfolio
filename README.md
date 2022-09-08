@@ -2,7 +2,7 @@
 
 # SixZens
 
-📁 Scripter Roblox Hack Script ,etc ..
+📁 Scripter Of Game Roblox Script ,etc ..
 
 ![](https://komarev.com/ghpvc/?username=SixZens&color=de0021)
 ![](https://img.shields.io/badge/Discord-SixZens%235765-red)
