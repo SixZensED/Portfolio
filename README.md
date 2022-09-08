@@ -18,16 +18,3 @@ This is [**XOVA'S Team | UI Service**](https://discord.gg/EqBngnJ7Me)
 
 <details><summary>Information</summary>
 <p>
-
-```Lua
-[Information]
-[*] UI Price 599 + THB
-[*] UI Open Source + 2500 THB
-```
-
-</p>
-</details>
-
-**New Function**
-- [x] Add Search Bar :tada:
-- [x] Add Whitelist For UI 
