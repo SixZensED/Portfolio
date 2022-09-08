@@ -15,6 +15,3 @@
 I do Ui-Library in Roblox , such as Hub development (front-end), and Script development! Most of the projects you may see on here are mostly hobbyist.
 
 This is [**XOVA'S Team | UI Service**](https://discord.gg/EqBngnJ7Me)
-
-<details><summary>Information</summary>
-<p>
