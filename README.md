@@ -15,10 +15,12 @@
 # About
 I do Ui-Library in Roblox , such as Hub development (front-end), and Script development! Most of the projects you may see on here are mostly hobbyist.
 ```lua
-local Name = {kao,nine}
+Name = {kao,nine}
+
 for i,v in paris(Name) do
-print(v)
+ print(v)
 end
+
 Age = 18
 Learning </> = Lua,Python,Html,C++,C#
 Main Learning </> = Lua
