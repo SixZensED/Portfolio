@@ -1,4 +1,4 @@
-<img align='left' src='[https://media.discordapp.net/attachments/886987206412099675/950244050789863474/9aba6040f5c0af8c93b388f5df24c121.jpg](https://cdn.discordapp.com/attachments/708693910188326952/1025310250846392320/NRW_25_of_693-Edit.jpg)' width='20%'>
+<img align='left' src='https://cdn.discordapp.com/attachments/708693910188326952/1025310250846392320/NRW_25_of_693-Edit.jpg' width='20%'>
 
 # SixZens
 
